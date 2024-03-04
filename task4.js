@@ -4,6 +4,9 @@
 // name, phoneNumber, dataOfBirth, emailAddress
 
 // Ваш код ..
+/*const name = document.getElementsByClassName('arr');
+const phoneNumber = namee[1].value;*/
+
 const name = document.getElementsByClassName('arr')[0].value;
 const phoneNumber = document.getElementsByClassName('arr')[1].value;
 const dataOfBirth = document.getElementsByClassName('arr')[2].value;

@@ -11,6 +11,10 @@ secondtEl = document.getElementById('list').children[1].innerHTML;
 thirdtEl = document.getElementById('list').children[2].innerHTML;
 fourthEl = document.getElementById('list').children[3].innerHTML;
 
+/*listOf = document.getElementById('list');
+firstEl =listOf.firstElementChild.innerHTML;*/
+
+
 module.exports = {
   firstEl,
   lastEl,
