@@ -1,5 +1,7 @@
 Завдання на тему DOM(Document Object Model)
 
+![alt text](https://github.com/2024JS/js-fundamentals-dom-test-2024JS-main/blob/main/screenshot_24-02-25_18-13-26.png)
+
 Переконайся що в тебе встановлений Node js
 
 Перед виконанням запустити команду npm install
